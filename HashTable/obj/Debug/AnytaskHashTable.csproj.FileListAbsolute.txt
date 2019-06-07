@@ -1,0 +1,6 @@
+E:\Program Files (x86)\GitHub\HashCode\AnytaskHashTable\bin\Debug\AnytaskHashTable.dll
+E:\Program Files (x86)\GitHub\HashCode\AnytaskHashTable\bin\Debug\AnytaskHashTable.pdb
+E:\Program Files (x86)\GitHub\HashCode\AnytaskHashTable\obj\Debug\AnytaskHashTable.csprojAssemblyReference.cache
+E:\Program Files (x86)\GitHub\HashCode\AnytaskHashTable\obj\Debug\AnytaskHashTable.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\GitHub\HashCode\AnytaskHashTable\obj\Debug\AnytaskHashTable.dll
+E:\Program Files (x86)\GitHub\HashCode\AnytaskHashTable\obj\Debug\AnytaskHashTable.pdb

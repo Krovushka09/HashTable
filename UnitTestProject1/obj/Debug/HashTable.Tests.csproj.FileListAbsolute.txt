@@ -1,0 +1,13 @@
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\bin\Debug\AnytaskHashTable.dll
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\bin\Debug\AnytaskHashTable.pdb
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\obj\Debug\HashTable.Tests.csprojAssemblyReference.cache
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\obj\Debug\HashTable.Tests.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\obj\Debug\HashTable.Tests.csproj.CopyComplete
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Program Files (x86)\GitHub\HashCode\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
